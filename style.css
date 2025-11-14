@@ -442,7 +442,7 @@ header.scrolled {
     width: 90%;
     max-width: 800px;
     border-radius: 20px;
-    padding: 3rem;
+    padding: 1rem;
     position: relative;
     border: 1px solid rgba(0, 255, 153, 0.2);
     box-shadow: 0 0 40px rgba(0, 255, 153, 0.1);
@@ -1783,4 +1783,5 @@ footer {
         margin-bottom: 10px;
     }
 }
+
 
